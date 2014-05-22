@@ -1,0 +1,1095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"healthDisplay"
+			],
+			[
+				"en",
+				"enemyList"
+			],
+			[
+				"get",
+				"getHealth"
+			],
+			[
+				"pr",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/junkyard.js",
+			"settings":
+			{
+				"buffer_size": 1361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/combat.js",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/char.js",
+			"settings":
+			{
+				"buffer_size": 2470,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"selected_items":
+		[
+			[
+				"ss javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss coldmar",
+				"Set Syntax: ColdFusion Markup"
+			],
+			[
+				"PACK REM",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKINST",
+				"Package Control: Install Package"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dan/Junk Yard Escape/js/combat.js",
+		"/Users/dan/Junk Yard Escape/js/char.js",
+		"/Users/dan/Junk Yard Escape/js/option.js",
+		"/Users/dan/Junk Yard Escape/js/inventory.js",
+		"/Users/dan/Junk Yard Escape/js/junkyard.js",
+		"/Users/dan/Junk Yard Escape/index.html",
+		"/Users/dan/realtime/student/Import/realtime.sublime-project",
+		"/Users/dan/realtime/student/EvaluationReportCards/DistrictEvalSettings.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/processEvaluationReportCards.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/INC_processEvaluationReportCards3col.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade06.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade05.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade03.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/INC_processEvaluationReportCards2page.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade02.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.NorthHaledon.Grade01alt.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade01.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.NorthHaledon.Grade01alt.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.GradeK.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Cliffside.Grade04.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.NorthHaledon.Grade01.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.CamdenPromise.Grade00Alt.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.NorthHaledon.GradeK.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.NorthHaledon.GradeK.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.NorthHaledon.Grade00.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/northcaldwell.altheader.cfm",
+		"/Users/dan/realtime/student/discipline_letter/INC_DisciplineLetterList.cfm",
+		"/Users/dan/realtime/student/discipline_letter/copyLetter.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Hardyston.GradeKF.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.Hardyston.GradeKF.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Waterford.Grade02.cfm",
+		"/Users/dan/realtime/student/IEP/INC_GOteacherRequest_detailed.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Hardyston.Grade04.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Hardyston.Grade01.cfm",
+		"/Users/dan/realtime/student/EvaluationsYearly/districtCommLen.cfm",
+		"/Users/dan/realtime/student/student_maint/INC_studentTransfer.cfm",
+		"/Users/dan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dan/realtime/Vagrantfile",
+		"/Users/dan/realtime/student/IEPWriter/sectionDetail_NoLog.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Footer.Hardyston.Grade02.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.Hardyston.Grade02.cfm",
+		"/Users/dan/realtime/student/transcripts/transcriptSecaucusMS.cfm",
+		"/Users/dan/realtime/student/transcripts/transcriptSecaucus.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.WestPaterson.Grade03.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/Header.WestPaterson.Grade04.cfm",
+		"/Users/dan/realtime/student/IEPWriter_maint/inc_ServiceProviderMassUpdate.cfm",
+		"/Users/dan/realtime/student/IEPWriter/inc_afa_selectedGoals.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_afa2.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/INC_processEvaluationReportCards.cfm",
+		"/Users/dan/realtime/student/EvaluationReportCards/INC_evaldetails.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_mpspr2_G_Append.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_mpspr2.cfm",
+		"/Users/dan/Junk Yard Escape/css/junkyard.css",
+		"/Users/dan/realtime/student/DanSandbox/ssresMassUpdateForm.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_bi.cfm",
+		"/Users/dan/realtime/student/IEPServices/INC_ServicesTrackingLogTemplate.cfm",
+		"/Users/dan/realtime/student/IEPServices/inc_ServicesTrackingLogTemplateForm.cfm",
+		"/Users/dan/realtime/student/DanSandbox/SQLssersMassUpdate.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_afa_Progress_Multiset.cfm",
+		"/Users/dan/realtime/student/DanSandbox/PARCC_Upload.cfm",
+		"/Users/dan/realtime/student/student_data/inc_personalV2.cfm",
+		"/Users/dan/realtime/student/DanSandbox/securityQuestions.sql",
+		"/Users/dan/realtime/student/DataLoads/DAN_updateAllDistricts.cfm",
+		"/Users/dan/realtime/student/DanSandbox/danTemp2.cfm",
+		"/Users/dan/realtime/student/DanSandbox/danTemp.cfm",
+		"/Users/dan/realtime/student/Bus/inc_studentBus.cfm",
+		"/Users/dan/realtime/student/courseselection/INC_CourseRequestBreakdownDetail.cfm",
+		"/Users/dan/realtime/student/courseselection/inc_CourseRequestBreakdownDetailExport.cfm",
+		"/Users/dan/realtime/student/Import/inc_askupload_MI_excel_CFS.cfm",
+		"/Users/dan/realtime/IEPPortal/speller/server-scripts/spellchecker.cfm",
+		"/Users/dan/realtime/student/IEP/sqlManageMeeting.cfm",
+		"/Users/dan/realtime/student/IEP/INC_manageMeeting.cfm",
+		"/Users/dan/realtime/student/Reports/IEP_Placement.cfm",
+		"/Users/dan/realtime/student/Import/askupload_MI_excel_CFS.cfm",
+		"/Users/dan/realtime/student/iep_reports/spEdStudentRosterReport.cfm",
+		"/Users/dan/realtime/student/IEPServices/INC_ServicesTrackingLog_NEW.cfm",
+		"/Users/dan/realtime/student/IEPServices/inc_ServicesTrackingLogForm.cfm",
+		"/Users/dan/realtime/student/federal/INC_EditIEP.cfm",
+		"/Users/dan/realtime/student/Application.cfc",
+		"/Users/dan/Junk Yard Escape/junkyard.css",
+		"/Users/dan/realtime/student/IEPWriter/printSections.cfm",
+		"/Users/dan/realtime/student/IEPServices/ServicesTrackingLog.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_custom.cfm",
+		"/Users/dan/realtime/student/Reports/TestMultiple.cfm",
+		"/Users/dan/realtime/student/IEPWriter/INC_plre_c.cfm",
+		"/Users/dan/realtime/student/Import/QRY_AskImport_stuSearch.cfm",
+		"/Users/dan/realtime/student/Import/QRY_AP.cfm",
+		"/Users/dan/realtime/student/labels/inc_labelreportsv2.cfm",
+		"/Users/dan/Junk Yard Escape/js/jq10.js",
+		"/Users/dan/realtime/DATALOAD_FILES/addAllDatasourcesToCurrentServer_NoSeefusion.cfm",
+		"/Users/dan/realtime/student/discipline/sqlEDITincident.cfm",
+		"/Users/dan/realtime/student/discipline/INC_EDITincident.cfm",
+		"/Users/dan/realtime/student/discipline/INC_ADDresolution.cfm",
+		"/Users/dan/realtime/student/discipline/sqladddisciplineentry.cfm",
+		"/Users/dan/realtime/student/discipline/INC_ADDdiscipline.cfm",
+		"/Users/dan/realtime/student/StudentDemerit/INC_StuDemerit.cfm",
+		"/Users/dan/realtime/student/discipline_maint/sqlADDincident.cfm",
+		"/Users/dan/realtime/student/StudentDemerit/INC_MaintainDemerits.cfm",
+		"/Users/dan/realtime/student/discipline_maint/sqlEDITincident.cfm",
+		"/Users/dan/realtime/student/discipline_maint/INC_EDITincidentLIVE.cfm",
+		"/Users/dan/realtime/student/discipline_maint/INC_EDITincident.cfm",
+		"/Users/dan/realtime/student/IEP/INC_displayIEPlist.cfm",
+		"/Users/dan/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/dan/realtime/student/iep_reports/INC_AnnualReEvalDueDatesForm.cfm",
+		"/Users/dan/realtime/student/iep_reports/AnnualReEvalDueDatesReport.cfm",
+		"/Users/dan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/dan/realtime/student/IEPnotes/IEPupdateNotes.cfm",
+		"/Users/dan/realtime/student/IEPnotes/INC_IEPstudentNotes.cfm",
+		"/Users/dan/realtime/student/Exports/renplaceExportFull_CFX.cfm",
+		"/Users/dan/realtime/student/Exports/INC_RenplaceExportFormFull.cfm",
+		"/Users/dan/realtime/student/Exports/RenplaceExportFormFull.cfm",
+		"/Users/dan/realtime/student/Exports/RenplaceExportForm.cfm",
+		"/Users/dan/realtime/student/Exports/RenplaceExport.cfm",
+		"/Users/dan/realtime/student/Exports/RenplaceElmwoodParkExport.cfm",
+		"/Users/dan/realtime/student/Exports/INC_RenplaceExportForm.cfm",
+		"/Users/dan/realtime/student/employeeAttendance/inc_employeeHeader.cfm",
+		"/Users/dan/realtime/student/CustomTags/exportInclude.cfm",
+		"/Users/dan/realtime/student/CafeLetters/INC_EDITLetter.cfm",
+		"/Users/dan/realtime/student/Exports/RenaissanceExport_CFX.cfm",
+		"/Users/dan/realtime/student/IEP/INC_EDITinitialiepconfletter.cfm",
+		"/Users/dan/realtime/student/IEPWriter_maint/inc_pendingToPost_PDSAP.cfm",
+		"/Users/dan/realtime/student/IEPWriter_maint/inc_convertIEPtoSFD2_CFInclude.cfm",
+		"/Users/dan/realtime/student/IEPWriter_maint/sqlPendingToPost_PDSAP.cfm",
+		"/Users/dan/realtime/student/IEP/inc_StudentIEPSectionDetails.cfm",
+		"/Users/dan/realtime/student/IEP/INC_IEPUploadDetailsNewLetters.cfm",
+		"/Users/dan/realtime/student/IEP/ViewIEPDocument.cfm",
+		"/Users/dan/realtime/student/IEP/inc_StudentIEPSectionDetails_Elig.cfm",
+		"/Users/dan/realtime/student/IEP/inc_StudentIEPSectionList.cfm"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"CKEDITOR.replaceALL",
+			"",
+			"/Users/dan/realtime/student/transcripts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Character",
+			"hero",
+			"’",
+			"northHaledon",
+			"haledon",
+			"’",
+			"valign=\"bottom\"",
+			"hardyston",
+			"getstudentinfo",
+			"hardyston",
+			"6p",
+			"8pt",
+			"groupid",
+			"realitemployee",
+			"size=\"1\"",
+			"studentgoalid",
+			"delete.gif",
+			"size=\"2\"",
+			"size=\"",
+			"<td style=\"font-size: 6pt\" valign=\"bottom\">",
+			"Outstanding Student",
+			"Needsd to imporove class work",
+			"8pt",
+			"8",
+			"Outstanding Student",
+			"Cfelseif",
+			"col",
+			"3col",
+			"level",
+			"div",
+			"border",
+			"span",
+			"fck",
+			"requesttimeout",
+			"chr(13)",
+			"char13",
+			"chr13",
+			"chr9",
+			"from employee",
+			"form.sending",
+			"dbtablesuffix",
+			"<th",
+			"action",
+			"insert into val_school",
+			"union",
+			"sy.attendingschool",
+			"location:",
+			"and sy.attendingschool",
+			"style=\"border: solid white 1px;\"",
+			"div",
+			"form.month",
+			"append",
+			"credits",
+			"getscgall",
+			"progress",
+			"43",
+			"47",
+			"document the compar",
+			"textarea",
+			"5",
+			"realitdemo",
+			"real",
+			"list",
+			"studem",
+			"action",
+			"url.from",
+			"origin",
+			"action",
+			"sfdactive",
+			"and sfdActive.studentid",
+			"form.activeonly",
+			"LEFT OUTER JOIN",
+			"action",
+			"linkref",
+			"cfif",
+			"CFIF",
+			"cfif",
+			"CFIF",
+			"cfif",
+			"CFIF",
+			"cfif",
+			"CFIF",
+			"cfelse",
+			"CFELSE",
+			"cfquery",
+			"CFQUERY",
+			"cfset",
+			"CFSET",
+			"cfset",
+			"CFSET",
+			"CFIF",
+			"CFQUERY",
+			"sytle",
+			"scroll",
+			"ckeditor",
+			"CKEDITOR.replaceALL",
+			"calendar",
+			"employeeID",
+			"employeeid",
+			"cf_exportinclude",
+			"query2excel",
+			"AS",
+			"left outer join",
+			"LEFT OUTER JOIN",
+			"student.",
+			"student",
+			"studentyear",
+			"cfoutput",
+			"onload",
+			"CKEDITOR.replaceAll",
+			"HMVal",
+			"EOCAVal",
+			"eoca",
+			"EOCA2Val",
+			"HMVal",
+			"template",
+			"*",
+			"EOCAVal",
+			"<cf_form_location",
+			"getExcel",
+			"select all",
+			"getExcel",
+			"cffile",
+			"homedistrict",
+			"form.sendingdistrict",
+			"numeric",
+			"varchar",
+			":460"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/junkyard.js",
+					"settings":
+					{
+						"buffer_size": 1361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/combat.js",
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "js/char.js",
+					"settings":
+					{
+						"buffer_size": 2470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1660,
+								1660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"comb",
+				"js/combat.js"
+			],
+			[
+				"char.js",
+				"js/char.js"
+			],
+			[
+				"junk.js",
+				"js/junkyard.js"
+			],
+			[
+				"char",
+				"js/char.js"
+			],
+			[
+				"op",
+				"js/option.js"
+			],
+			[
+				"junkard.js",
+				"js/junkyard.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"headcliffsid06",
+				"student/EvaluationReportCards/Header.Cliffside.Grade06.cfm"
+			],
+			[
+				"headcliffside05",
+				"student/EvaluationReportCards/Header.Cliffside.Grade05.cfm"
+			],
+			[
+				"headcliffsid4",
+				"student/EvaluationReportCards/Header.Cliffside.Grade04.cfm"
+			],
+			[
+				"headcliffside03",
+				"student/EvaluationReportCards/Header.Cliffside.Grade03.cfm"
+			],
+			[
+				"headcliffside02",
+				"student/EvaluationReportCards/Header.Cliffside.Grade02.cfm"
+			],
+			[
+				"headcliffsid01",
+				"student/EvaluationReportCards/Header.Cliffside.Grade01.cfm"
+			],
+			[
+				"headcliffsidek",
+				"student/EvaluationReportCards/Header.Cliffside.GradeK.cfm"
+			],
+			[
+				"headcliffside04",
+				"student/EvaluationReportCards/Header.Cliffside.Grade04.cfm"
+			],
+			[
+				"footnorthhal01",
+				"student/EvaluationReportCards/Footer.NorthHaledon.Grade01.cfm"
+			],
+			[
+				"footnorthhale01",
+				"student/EvaluationReportCards/Footer.NorthHaledon.Grade01.cfm"
+			],
+			[
+				"altheader",
+				"student/EvaluationReportCards/northcaldwell.altheader.cfm"
+			],
+			[
+				"inc_processevaluationreportcards2page",
+				"student/EvaluationReportCards/INC_processEvaluationReportCards2page.cfm"
+			],
+			[
+				"processevalrepor",
+				"student/EvaluationReportCards/processEvaluationReportCards.cfm"
+			],
+			[
+				"headnorthhale1",
+				"student/EvaluationReportCards/Header.NorthHaledon.Grade01.cfm"
+			],
+			[
+				"footnorthhalek",
+				"student/EvaluationReportCards/Footer.NorthHaledon.GradeK.cfm"
+			],
+			[
+				"headnorthhak",
+				"student/EvaluationReportCards/Header.NorthHaledon.GradeK.cfm"
+			],
+			[
+				"letter/inc_disciplineletterlist.cfm",
+				"student/discipline_letter/INC_DisciplineLetterList.cfm"
+			],
+			[
+				"headnorthhaledk",
+				"student/EvaluationReportCards/Header.NorthHaledon.GradeK.cfm"
+			],
+			[
+				"headwater02",
+				"student/EvaluationReportCards/Header.Waterford.Grade02.cfm"
+			],
+			[
+				"iep/inc_goteacherrequest_detailed.cfm",
+				"student/IEP/INC_GOteacherRequest_detailed.cfm"
+			],
+			[
+				"headhard02",
+				"student/EvaluationReportCards/Header.Hardyston.Grade02.cfm"
+			],
+			[
+				"headhard04",
+				"student/EvaluationReportCards/Header.Hardyston.Grade04.cfm"
+			],
+			[
+				"proc3col",
+				"student/EvaluationReportCards/INC_processEvaluationReportCards3col.cfm"
+			],
+			[
+				"foothard02",
+				"student/EvaluationReportCards/Footer.Hardyston.Grade02.cfm"
+			],
+			[
+				"hardy02",
+				"student/EvaluationReportCards/Header.Hardyston.Grade02.cfm"
+			],
+			[
+				"commlen",
+				"student/EvaluationsYearly/districtCommLen.cfm"
+			],
+			[
+				"foothalek",
+				"student/EvaluationReportCards/Footer.NorthHaledon.GradeK.cfm"
+			],
+			[
+				"distevalsetting",
+				"student/EvaluationReportCards/DistrictEvalSettings.cfm"
+			],
+			[
+				"headhaledk",
+				"student/EvaluationReportCards/Header.NorthHaledon.GradeK.cfm"
+			],
+			[
+				"vagra",
+				"Vagrantfile"
+			],
+			[
+				"incstudentrans",
+				"student/student_maint/INC_studentTransfer.cfm"
+			],
+			[
+				"sectiondetailnolog",
+				"student/IEPWriter/sectionDetail_NoLog.cfm"
+			],
+			[
+				"transsecau",
+				"student/transcripts/transcriptSecaucusMS.cfm"
+			],
+			[
+				"headwestpat04",
+				"student/EvaluationReportCards/Header.WestPaterson.Grade04.cfm"
+			],
+			[
+				"headwestpat03",
+				"student/EvaluationReportCards/Header.WestPaterson.Grade03.cfm"
+			],
+			[
+				"headhardy04",
+				"student/EvaluationReportCards/Header.Hardyston.Grade04.cfm"
+			],
+			[
+				"er_maint/inc_serviceprovidermassupdate.cfm",
+				"student/IEPWriter_maint/inc_ServiceProviderMassUpdate.cfm"
+			],
+			[
+				"riter/inc_afa_selectedgoals.cfm",
+				"student/IEPWriter/inc_afa_selectedGoals.cfm"
+			],
+			[
+				"pwriter/inc_afa2.cfm",
+				"student/IEPWriter/INC_afa2.cfm"
+			],
+			[
+				"inc_processevaluationreportcards3col",
+				"student/EvaluationReportCards/INC_processEvaluationReportCards3col.cfm"
+			],
+			[
+				"proceevalrep",
+				"student/EvaluationReportCards/processEvaluationReportCards.cfm"
+			],
+			[
+				"evaldetails",
+				"student/EvaluationReportCards/INC_evaldetails.cfm"
+			],
+			[
+				"incproeval",
+				"student/EvaluationReportCards/INC_processEvaluationReportCards.cfm"
+			],
+			[
+				"disevalsett",
+				"student/EvaluationReportCards/DistrictEvalSettings.cfm"
+			],
+			[
+				"footglouc5",
+				"student/EvaluationReportCards/Footer.Gloucester.Grade5.cfm"
+			],
+			[
+				"headglouc5",
+				"student/EvaluationReportCards/Header.Gloucester.Grade5.cfm"
+			],
+			[
+				"transecams",
+				"student/transcripts/transcriptSecaucusMS.cfm"
+			],
+			[
+				"r/inc_mpspr2_g_append.cfm",
+				"student/IEPWriter/INC_mpspr2_G_Append.cfm"
+			],
+			[
+				"writer/inc_mpspr2.cfm",
+				"student/IEPWriter/INC_mpspr2.cfm"
+			],
+			[
+				"incbi",
+				"student/IEPWriter/INC_bi.cfm"
+			],
+			[
+				"nc_servicestrackinglogtemplate.cfm",
+				"student/IEPServices/INC_ServicesTrackingLogTemplate.cfm"
+			],
+			[
+				"/inc_servicestrackinglogtemplateform.cfm",
+				"student/IEPServices/inc_ServicesTrackingLogTemplateForm.cfm"
+			],
+			[
+				"r/inc_afa_progress_multiset.cfm",
+				"student/IEPWriter/INC_afa_Progress_Multiset.cfm"
+			],
+			[
+				"danupdate",
+				"student/DataLoads/DAN_updateAllDistricts.cfm"
+			],
+			[
+				"us/inc_studentbus.cfm",
+				"student/Bus/inc_studentBus.cfm"
+			],
+			[
+				"ent_data/inc_personalv2.cfm",
+				"student/student_data/inc_personalV2.cfm"
+			],
+			[
+				"inc_askupload_mi_excel_cfs",
+				"student/Import/inc_askupload_MI_excel_CFS.cfm"
+			],
+			[
+				"askupmicfs",
+				"student/Import/askupload_MI_excel_CFS.cfm"
+			],
+			[
+				"spedstudentrosterreport.cfm",
+				"student/iep_reports/spEdStudentRosterReport.cfm"
+			],
+			[
+				"t/reports/iep_placement.cfm",
+				"student/Reports/IEP_Placement.cfm"
+			],
+			[
+				"dantemp2",
+				"student/DanSandbox/danTemp2.cfm"
+			],
+			[
+				"dantemp",
+				"student/DanSandbox/danTemp.cfm"
+			],
+			[
+				"danupd",
+				"student/DataLoads/DAN_updateAllDistricts.cfm"
+			],
+			[
+				"sqlmanagemeeting",
+				"student/IEP/sqlManageMeeting.cfm"
+			],
+			[
+				"/inc_managemeeting.cfm",
+				"student/IEP/INC_manageMeeting.cfm"
+			],
+			[
+				"deral/inc_editiep.cfm",
+				"student/federal/INC_EditIEP.cfm"
+			],
+			[
+				"ces/inc_servicestrackinglogform.cfm",
+				"student/IEPServices/inc_ServicesTrackingLogForm.cfm"
+			],
+			[
+				"services/inc_servicestrackinglog_new.cfm",
+				"student/IEPServices/INC_ServicesTrackingLog_NEW.cfm"
+			],
+			[
+				"applicatio",
+				"student/Application.cfc"
+			],
+			[
+				"progmulti",
+				"student/IEPWriter/INC_afa_Progress_Multiset.cfm"
+			],
+			[
+				"nc_servicestrackinglog_new.cfm",
+				"student/IEPServices/INC_ServicesTrackingLog_NEW.cfm"
+			],
+			[
+				"nt/iepwriter/printsections.cfm",
+				"student/IEPWriter/printSections.cfm"
+			],
+			[
+				"inc_servicestrackinglog_new.cfm",
+				"student/IEPServices/INC_ServicesTrackingLog_NEW.cfm"
+			],
+			[
+				"services/servicestrackinglog.cfm",
+				"student/IEPServices/ServicesTrackingLog.cfm"
+			],
+			[
+				"transcriptsecau",
+				"student/transcripts/transcriptSecaucusMS.cfm"
+			],
+			[
+				"transsec",
+				"student/transcripts/transcriptSecaucus.cfm"
+			],
+			[
+				"testmultiple.cfm",
+				"student/Reports/TestMultiple.cfm"
+			],
+			[
+				"writer/inc_custom.cfm",
+				"student/IEPWriter/INC_custom.cfm"
+			],
+			[
+				"iter/inc_afa_progress_multiset.cfm",
+				"student/IEPWriter/INC_afa_Progress_Multiset.cfm"
+			],
+			[
+				"labels/inc_labelreportsv2.cfm",
+				"student/labels/inc_labelreportsv2.cfm"
+			],
+			[
+				"qry_ap",
+				"student/Import/QRY_AP.cfm"
+			],
+			[
+				"qryaskstu",
+				"student/Import/QRY_AskImport_stuSearch.cfm"
+			],
+			[
+				"pwriter/inc_plre_c.cfm",
+				"student/IEPWriter/INC_plre_c.cfm"
+			],
+			[
+				"incaskmic",
+				"student/Import/inc_askupload_MI_excel_CFS.cfm"
+			],
+			[
+				"dantemp2.cfm",
+				"student/DanSandbox/danTemp2.cfm"
+			],
+			[
+				"danup",
+				"student/DataLoads/DAN_updateAllDistricts.cfm"
+			],
+			[
+				"importap",
+				"student/Import/QRY_AP.cfm"
+			],
+			[
+				"scipline/inc_adddiscipline.cfm",
+				"student/discipline/INC_ADDdiscipline.cfm"
+			],
+			[
+				"sqleditincident",
+				"student/discipline/sqlEDITincident.cfm"
+			],
+			[
+				"ep/inc_displayieplist.cfm",
+				"student/IEP/INC_displayIEPlist.cfm"
+			],
+			[
+				"pline/inc_editincident.cfm",
+				"student/discipline/INC_EDITincident.cfm"
+			],
+			[
+				"cipline/inc_addresolution.cfm",
+				"student/discipline/INC_ADDresolution.cfm"
+			],
+			[
+				"sqladddisciplineentry",
+				"student/discipline/sqladddisciplineentry.cfm"
+			],
+			[
+				"discipline/inc_adddiscipline.cfm",
+				"student/discipline/INC_ADDdiscipline.cfm"
+			],
+			[
+				"annualreevalduedatesreport",
+				"student/iep_reports/AnnualReEvalDueDatesReport.cfm"
+			],
+			[
+				"_reports/inc_annualreevalduedatesform.cfm",
+				"student/iep_reports/INC_AnnualReEvalDueDatesForm.cfm"
+			],
+			[
+				"vagrant",
+				"Vagrantfile"
+			],
+			[
+				"merit/inc_studemerit.cfm",
+				"student/StudentDemerit/INC_StuDemerit.cfm"
+			],
+			[
+				"sqladdincident",
+				"student/discipline_maint/sqlADDincident.cfm"
+			],
+			[
+				"demeritmaint",
+				"student/StudentDemerit/INC_MaintainDemerits.cfm"
+			],
+			[
+				"sqleditincident.cfm",
+				"student/discipline_maint/sqlEDITincident.cfm"
+			],
+			[
+				"discipline_maint/editincidentlive.cfm",
+				"student/discipline_maint/INC_EDITincidentLIVE.cfm"
+			],
+			[
+				"ipline_maint/inc_editincident.cfm",
+				"student/discipline_maint/INC_EDITincident.cfm"
+			],
+			[
+				"iepupdat",
+				"student/IEPnotes/IEPupdateNotes.cfm"
+			],
+			[
+				"inciepstudent",
+				"student/IEPnotes/INC_IEPstudentNotes.cfm"
+			],
+			[
+				"iepnotes/iepupda",
+				"student/IEPnotes/IEPupdateNotes.cfm"
+			],
+			[
+				"exportinclude",
+				"student/CustomTags/exportInclude.cfm"
+			],
+			[
+				"mployeeattendance/inc_employeeheader.cfm",
+				"student/employeeAttendance/inc_employeeHeader.cfm"
+			],
+			[
+				"renplaceexport",
+				"student/Exports/RenplaceExportForm.cfm"
+			],
+			[
+				"ports/renaissanceexport_cfx.cfm",
+				"student/Exports/RenaissanceExport_CFX.cfm"
+			],
+			[
+				"renplaceelmwoodparkexport",
+				"student/Exports/RenplaceElmwoodParkExport.cfm"
+			],
+			[
+				"ports/inc_renplaceexportform.cfm",
+				"student/Exports/INC_RenplaceExportForm.cfm"
+			],
+			[
+				"iepupdatenotes",
+				"student/IEPnotes/IEPupdateNotes.cfm"
+			],
+			[
+				"inc_iepstuden",
+				"student/IEPnotes/INC_IEPstudentNotes.cfm"
+			],
+			[
+				"sqlpendingtopost_pdsap",
+				"student/IEPWriter_maint/sqlPendingToPost_PDSAP.cfm"
+			],
+			[
+				"nt/inc_pendingtopost_pdsap.cfm",
+				"student/IEPWriter_maint/inc_pendingToPost_PDSAP.cfm"
+			],
+			[
+				"epwriter_maint/sqlpendingtopost_pdsap.cfm",
+				"student/IEPWriter_maint/sqlPendingToPost_PDSAP.cfm"
+			],
+			[
+				"askimporstu",
+				"student/Import/QRY_AskImport_stuSearch.cfm"
+			],
+			[
+				"inc_studentiepsectiondetails",
+				"student/IEP/inc_StudentIEPSectionDetails.cfm"
+			],
+			[
+				"/iep/viewiepdocument.cfm",
+				"student/IEP/ViewIEPDocument.cfm"
+			],
+			[
+				"nt/iep/inc_iepuploaddetailsnewletters.cfm",
+				"student/IEP/INC_IEPUploadDetailsNewLetters.cfm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}

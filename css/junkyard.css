@@ -1,0 +1,82 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Geo', sans-serif;
+}
+
+div#wrapper {
+	width: 800px;
+	margin: 0 auto;
+	min-height: 300px
+	display: block;
+}
+
+div#shell {
+	display: block;
+	background-color: #353436;
+	min-height: 300px;
+	max-height: 300px;
+	width: 100%;
+	border-left: 1px solid #79757a;
+	border-right: 1px solid #79757a;
+	overflow: scroll;
+	overflow: hidden;
+}
+
+div.title {
+  margin: 0 auto;
+  text-align: center;
+} 
+
+span#status {
+	width: 100%;
+}
+
+.statusBar {
+  display: inline;
+  height: 25px;
+  width: 100%;
+}
+
+.healthBlock {
+	width: 15px;
+	height: 15px;
+	border: 1px solid white;
+	background-color: #ac2100;
+	float: left;
+}
+
+.healthBlockSpent {
+	width: 15px;
+	height: 15px;
+	border: 1px solid white;
+	background-color: #a1a1aa;
+	float: left;
+}
+
+#heroHP {
+	float: left;
+}
+
+#heroHPText {
+	float: left;
+}
+
+#enemyHP {
+	float: right;
+}
+
+#enemyHPText {
+	float: right;
+}
+
+.promptInput {
+	text-decoration: none;
+	background-color: #353436; 
+	border: none;
+	color: white;
+	font-family: 'Geo', sans-serif;
+	font-weight: bold;
+	outline: none;
+}
+
