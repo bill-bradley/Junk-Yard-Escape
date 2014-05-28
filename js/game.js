@@ -29,7 +29,7 @@ Game.prototype.getRandomEnemy = function() {
 		'hobo',
 		'garbage man',
 		'dad',
-		'some sort of living  piling of tires'
+		'some sort of living pile of tires'
 	];
 	var randomIndex = Math.floor(Math.random()*enemyTypeList.length);
 	return enemyTypeList[randomIndex];
